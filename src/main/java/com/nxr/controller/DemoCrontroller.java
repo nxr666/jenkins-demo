@@ -8,6 +8,6 @@ public class DemoCrontroller {
 
     @RequestMapping
     String getName() {
-        return "";
+        return "hahah";
     }
 }
